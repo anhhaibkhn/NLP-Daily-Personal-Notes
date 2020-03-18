@@ -3,5 +3,7 @@
 *.gz
 *.ipynb_checkpoints
 *.py
+*.txt
 /StatefulandStatelessLSTMforTimeSeries_Forecasting/*
 /PythonPandasForDataDiscovery/*
+/Stock_Market_Predictions_with_LSTM_Python/*
